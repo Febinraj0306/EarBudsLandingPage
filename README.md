@@ -1,4 +1,5 @@
 # EarBuds Landing Page 🎧
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
 
 Live Demo🚀
    https://febinraj0306.github.io/EarBudsLandingPage/
