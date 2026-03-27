@@ -163,3 +163,5 @@ main, .swiper {
     height: 20px;
     margin-left: 10px;
 }
+
+@media (max-width: 768px) { }
